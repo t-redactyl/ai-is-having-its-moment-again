@@ -4,7 +4,7 @@ If you're interested in some of my other work on AI, below are some selected lin
 
 * GOTO Amsterdam (2024), [Beyond the Hype: A Realistic Look at Large Language Models](https://www.youtube.com/watch?v=Pv0cfsastFs). This talk gives an overview of how we got to the current AI era, why these models are not AGI, and realistic use cases for language models.
 * NDC Porto (2024), [Keynote: Can you trust your (large language) model?](https://www.youtube.com/watch?v=fh8jDBgORRU). This talk discusses issues with measurement in LLMs, and whether we can really trust claims on LLM performance based on current benchmarks.
-* NDC Melbourne (2025), [Mirror, mirror: LLMs and the illusion of humanity](https://www.youtube.com/watch?v=RSS1a8ngGRU). In this talk, we examine the evidence for whether LLMs are really showing human-level performance in language, consciousness and intelligence.
+* NDC Melbourne (2025), [Mirror, mirror: LLMs and the illusion of humanity](https://www.youtube.com/watch?v=RSS1a8ngGRU). In this talk, we examine the evidence for whether LLMs are really showing human-level language use, sentience and intelligence.
 * PyCon US (2025), [Lies, damned lies and large language models](https://www.youtube.com/watch?v=innz9iBIAdU). This talk explains why LLMs hallucinate, and how we can classify and measure hallucinations.
 * freeCodeCamp (2024), [LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)](https://www.youtube.com/watch?v=Q7mS1VHm3Yw). In this course, you'll learn how to build a book recommender using LLMs, including how to pick the right models for specific tasks, and an explanation of what is happening under the hood.
 
@@ -70,7 +70,6 @@ Below is a list of all the sources and media I used for this talk.
 * ["Future computers could replace professionals"](https://books.google.de/books?id=tnBWAAAAIBAJ&pg=PA23&dq=%22expert+system%22&article_id=1189,1921369&hl=en&sa=X&ved=2ahUKEwi3nZvn1_OOAxVEiP0HHQRIFsAQ6AF6BAgIEAM#v=onepage&q&f=false), The Leader-Post, 24 Sep 1984
 * ["Kestrel hopes to rival programmer with AI"](https://books.google.de/books?id=94T9BTjdzT0C&pg=PA28&dq=expert+system&hl=en&sa=X&ved=2ahUKEwiK1IuL1vOOAxV4gP0HHf23NBoQ6AF6BAgMEAM#v=onepage&q&f=false), Computerworld, 23 Nov 1981
 * ["Biologists map genes on-line"](https://books.google.de/books?id=ti4EAAAAMBAJ&pg=PA43&dq=%22intelligenetics%22&hl=en&sa=X&ved=2ahUKEwi3qeaFtPaOAxWci_0HHdE8BaQQ6AF6BAgJEAM#v=onepage&q&f=false), InfoWorld, 7 May 1984
-* 
 
 ## Image credits
 * [Alan Turing](https://www.britannica.com/science/history-of-artificial-intelligence)
