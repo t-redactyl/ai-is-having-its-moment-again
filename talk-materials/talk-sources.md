@@ -1,5 +1,13 @@
 # Sources for talk: AI is having its moment ... again.
 
+If you're interested in some of my other work on AI, below are some selected links.
+
+* GOTO Amsterdam (2024), [Beyond the Hype: A Realistic Look at Large Language Models](https://www.youtube.com/watch?v=Pv0cfsastFs). This talk gives an overview of how we got to the current AI era, why these models are not AGI, and realistic use cases for language models.
+* NDC Porto (2024), [Keynote: Can you trust your (large language) model?](https://www.youtube.com/watch?v=fh8jDBgORRU). This talk discusses issues with measurement in LLMs, and whether we can really trust claims on LLM performance based on current benchmarks.
+* NDC Melbourne (2025), [Mirror, mirror: LLMs and the illusion of humanity](https://www.youtube.com/watch?v=RSS1a8ngGRU). In this talk, we examine the evidence for whether LLMs are really showing human-level performance in language, consciousness and intelligence.
+* PyCon US (2025), [Lies, damned lies and large language models](https://www.youtube.com/watch?v=innz9iBIAdU). This talk explains why LLMs hallucinate, and how we can classify and measure hallucinations.
+* freeCodeCamp (2024), [LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)](https://www.youtube.com/watch?v=Q7mS1VHm3Yw). In this course, you'll learn how to build a book recommender using LLMs, including how to pick the right models for specific tasks, and an explanation of what is happening under the hood.
+
 Below is a list of all the sources and media I used for this talk.
 
 ## Papers and articles
